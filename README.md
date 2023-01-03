@@ -1,2 +1,2 @@
 # Artificial-Intelligence
-### Assignments done in college for academics.
+Assignments done in college for academics.
